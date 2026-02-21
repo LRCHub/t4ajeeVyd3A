@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "満月の夜なら",
+  "base_artist": "aimyon",
+  "createdAt": "2026-02-21T09:20:45.007356Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "満月の夜なら (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/01_満月の夜なら_(Live_in_阪神甲子園球場,_2022.11.05)_あいみょん.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "満月の夜なら (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "Aimyon",
+      "has_synced": false,
+      "path": "select/02_満月の夜なら_(Live_in_阪神甲子園球場,_2022.11.05)_Aimyon.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "満月の夜なら",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_満月の夜なら_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "満月の夜なら",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_02_満月の夜なら_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "満月の夜なら",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_03_満月の夜なら_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "満月の夜なら",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_04_満月の夜なら_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "満月の夜なら",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_05_満月の夜なら_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "満月の夜なら",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_06_満月の夜なら_あいみょん.txt"
+    }
+  ]
+}
